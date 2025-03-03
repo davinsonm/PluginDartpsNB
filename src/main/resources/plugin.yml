@@ -1,0 +1,9 @@
+name: DartpsNB
+version: 0.2.4-BETA
+main: me.Davinsonm.PluginTpsNB.PluginDartpsNB
+commands:
+  dartps:
+    description: "Otorga Training Points a un jugador."
+    usage: "/dartps <jugador> <cantidad>"
+    permission: op
+    permission-message: "Solo los operadores pueden usar este comando."
